@@ -6,7 +6,7 @@
 
 # Note
 
-This is a team project between [Sarthak Agrawal](https://github.com/IamME1311) and [myself](https://github.com/HannahIgboke) during our internship at [Innomatics Research Labs](https://www.linkedin.com/school/innomatics-research-labs/mycompany/).
+This is a team project between [Hannah Igboke](https://github.com/HannahIgboke) and [myself](https://github.com/IamME1311) during our internship at [Innomatics Research Labs](https://www.linkedin.com/school/innomatics-research-labs/mycompany/). 
 
 
 # Background
