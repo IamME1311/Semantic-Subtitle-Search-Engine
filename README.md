@@ -2,7 +2,6 @@
 
 <p align="center">
     <img width="800" src="https://github.com/HannahIgboke/Semantic-Based-Video-Subtitle-Search-engine/blob/main/Images/Search.jpg" alt="Search">
-    <img src="https://github.com/IamME1311/FilmSynergy_Recommender/blob/main/tiered%20dress_5.png">
 </p>
 
 # Note
